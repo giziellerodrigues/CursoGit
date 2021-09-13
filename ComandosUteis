@@ -11,4 +11,6 @@ Comandos Git
 git clone <https://github.com/matheusmeneses/CursoGit.git>
 git status: A principal ferramenta utilizada para determinar quais arquivos estão em quais estados.
 git add: Para passar a monitorar um novo arquivo, use o comando git add.
+git log: Historico dos commits
+git pull: Pega as alterações do repositorio remoto e joga para o repositorio local.
 
